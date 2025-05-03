@@ -2,8 +2,8 @@
 
 I am a professional engineer for 7+ years, but I've been tinkering longer than that.
 
-I've worked and studied across the US, currently based in San Francisco.
+I've had the privilege to work and study across the US, currently based in San Francisco.
 
 My interests lie in high performance distributed systems and applied ML.
 
-This account stores some current and previous projects.
+This account stores my current and previous projects.
