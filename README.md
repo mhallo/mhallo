@@ -1,6 +1,6 @@
 ## Hi, I'm Matt 👋
 
-I am a professional engineer with 7+ years of professional experience, but I've been tinkering with computers longer than that.
+I am a engineer with 7+ years of professional experience, but I've been tinkering with computers longer than that.
 
 I've had the privilege to work and study across the US; I am currently based in San Francisco.
 
