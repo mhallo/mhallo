@@ -4,6 +4,6 @@ I am a engineer with 7+ years of professional experience, but I've been tinkerin
 
 I've had the privilege to work and study across the US; I am currently based in San Francisco.
 
-My interests lie in high performance distributed systems and applied ML.
+My computing interests lie in high performance distributed systems, vectorization/SIMD, and applied ML.
 
 This account stores my current and previous projects.
